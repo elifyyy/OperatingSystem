@@ -1,0 +1,29 @@
+Open Visual Studio
+Click File from left-top corner
+Select New->Project
+Choose Empty Project
+Name it as parent
+In Solution Explorer window,under parent project right click Source Files
+Select add->new item
+Chose C++ file
+Name it as parent.c
+Right clik Solution 'parent'
+Choose add-> new project
+Choose Empty Project
+Name it as child
+In Solution Explorer window,under child project right click Source Files
+Select add->new item
+Chose C++ file
+Name it as child.c
+Copy-paste paret to new parent.c file
+Copy-paste child to new child.c file
+In Solution Explorer window right click parent project
+click Set as startup project
+Build Solution and run it.
+
+
+
+
+
+
+
